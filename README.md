@@ -1,7 +1,7 @@
 # Ball-Adventure
 
 Third person game. 
-[Click to play](https://lanzzzzz.github.io/Learning-Unity_Ball-Adventure/)
+[Click to play](https://lanzzzzz.github.io/Unity_Ball-Adventure/)
 
 * __Tips__
   * Level 1: Collect 5 coins to win
